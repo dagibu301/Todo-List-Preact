@@ -1,0 +1,63 @@
+.task {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: rgb(232, 232, 241);
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info input {
+  margin-right: 0.8rem;
+}
+
+/* .button {
+    background-color: rgb(147, 148, 209);
+    border-radius: 6px;
+    border-width: 0;
+    box-shadow: rgb(50 50 93 / 10%) 0 0 0 1px inset, rgb(50 50 93 / 10%) 0 2px 5px 0, rgb(0 0 0 / 7%) 0 1px 1px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px 15px;
+    text-align: center;
+    transform: translateZ(0);
+    transition: all .2s,box-shadow .08s ease-in;
+} */
+
+.edit {
+  background-color: rgb(147, 148, 209);
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgb(50 50 93 / 10%) 0 0 0 1px inset, rgb(50 50 93 / 10%) 0 2px 5px 0, rgb(0 0 0 / 7%) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 15px;
+  text-align: center;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+  margin-right: 5px;
+}
+
+.delete {
+  background-color: rgba(172, 16, 16, 0.589);
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgb(50 50 93 / 10%) 0 0 0 1px inset, rgb(50 50 93 / 10%) 0 2px 5px 0, rgb(0 0 0 / 7%) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 15px;
+  text-align: center;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+}

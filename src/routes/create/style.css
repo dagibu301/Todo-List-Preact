@@ -4,3 +4,40 @@
 	width: 100%;
 	margin-left: 2rem;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: 1rem;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.form div {
+  margin-bottom: 1rem;
+}
+
+.form div input {
+  border-style: none none solid none;
+}
+
+.form div input:target {
+  border-style: none none solid none;
+}
+
+.button {
+  background-color: rgb(147, 148, 209);
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgb(50 50 93 / 10%) 0 0 0 1px inset, rgb(50 50 93 / 10%) 0 2px 5px 0, rgb(0 0 0 / 7%) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 15px;
+  text-align: center;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+}

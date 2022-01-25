@@ -1,22 +1,23 @@
-# Todo App
+# Todo list Preact :rocket:
 
-## CLI Commands
+## :rocket: Technologies used
+This project was developed using this technologies:
+- [Preact](https://preactjs.com/)
+- [CSS](https://www.w3schools.com/Css/)
 
-``` bash
-# install dependencies
-npm install
+## :computer: Description
 
-# serve with hot reload at localhost:8080
-npm run dev
+CRUD Todo list application
 
-# build for production with minification
-npm run build
+![image](https://user-images.githubusercontent.com/47512198/150988864-6da5360c-8a54-4c56-9995-52f2054ebee0.png)
 
-# test the production build locally
-npm run serve
+## :memo: License
 
-# run tests with jest and enzyme
-npm run test
-```
+This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) para mais detalhes.
 
-For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+---
+
+Done with :purple_heart: by David Giraldo :wave:
+
+
+
